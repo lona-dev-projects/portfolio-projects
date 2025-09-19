@@ -1,0 +1,6 @@
+Walk-Forward Validation Report (v6 Threshold Optimization)
+================================================================================
+           Total Return (%)  Sharpe Ratio (Annualized)  Max Drawdown (%)  Total Trades
+Threshold                                                                             
+0.95                 -23.97                      -6.60            -23.98          2089
+0.96                 -20.45                      -5.87            -20.65          1805

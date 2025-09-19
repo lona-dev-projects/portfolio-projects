@@ -1,0 +1,6 @@
+Walk-Forward Validation Performance Report
+========================================
+Total Return (%): -98.72
+Sharpe Ratio (Annualized): -18.12
+Max Drawdown (%): -98.72
+========================================

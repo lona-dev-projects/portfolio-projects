@@ -1,0 +1,17 @@
+# Ignore Python virtual environments
+venv/
+/venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore large data files in the data directory
+# We only want to track the code, not the raw/processed data
+#data/raw/*.parquet
+#data/processed/*.parquet
+#data/histdata_downloads
+
+# Ignore IDE-specific folders
+.vscode/
+.idea/
